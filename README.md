@@ -28,12 +28,12 @@ muhiamen@sysbox:~$ mkdir Getting-start.<br>
 2: <b> < ls > </b> this command is used for list mean to know about the items in the directoy.<b
 ##### For Example:
 muhiamen@sysbox:~$ ls <br>
-'Books for study'                        My-data
- Music                                   Pictures
- Desktop                                 New
- Documents                               Public
- Getting-start                           Download
- Movies                                  Videos
+'Books for study'   <br>                     My-data<br>
+ Music<br>                                   Pictures<br>
+ Desktop<br>                                 New<br>
+ Documents<br>                               Public<br>
+ Getting-start<br>                           Download<br>
+ Movies<br>                                  Videos<br>
   <br>
   
 3: <b> < cd > </b> through this command you can enter into the directory or folder.
@@ -48,7 +48,7 @@ muhiamen@sysbox:~/Getting-start$
   muhiamen@sysbox:~/Getting-start$ pwd <br>
 /home/muhiamen/Getting-start
   
-  2: <b> < touch > </b> this command is used to make us the file.
+  2: <b> < touch > </b> this command is used to make file.
   ##### For Example:
   muhiamen@sysbox:~/Getting-start$ touch hello.txt <br>
-  <i> again if the shell comes back with no error so it means that the files has been made.
+  <i> again if the shell comes back with no error so it means that the files has been made.<i>
