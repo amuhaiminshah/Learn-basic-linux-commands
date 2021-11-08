@@ -27,19 +27,20 @@ muhiamen@sysbox:~$ mkdir Getting-start.<br>
 
 2: <b> < ls > </b> this command is used for list mean to know about the items in the directoy.<b
 ##### For Example:
-muhiamen@sysbox:~$ ls <br>
-'Books for study'   <br>                     My-data<br>
- Music<br>                                   Pictures<br>
- Desktop<br>                                 New<br>
- Documents<br>                               Public<br>
- Getting-start<br>                           Download<br>
- Movies<br>                                  Videos<br>
-  <br>
+muhiamen@sysbox:~$ ls <br><pre>
+'Books for study'                            My-data<br>
+ Music                                       Pictures<br>
+ Desktop                                     New<br>
+ Documents                                   Public<br>
+ Getting-start                               Download<br>
+ Movies                                      Videos<br>
+ </pre> <br>
+ 
   
 3: <b> < cd > </b> through this command you can enter into the directory or folder.
 ##### For Example:
-muhiamen@sysbox:~$ cd Getting-start <br>
-muhiamen@sysbox:~/Getting-start$
+   muhiamen@sysbox:~$ cd Getting-start <br>
+   muhiamen@sysbox:~/Getting-start$
 
 ## 3-Lesson-Working with Files:
 
