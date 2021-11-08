@@ -2,7 +2,7 @@
 Hello everyone, If you are interested in learning some basic Linux commands, so stick around. <br>
 ## 1-Lesson-Essential Elements:
 
-1: <b>< cal ></b> this command is used for calender.
+1: <b>< cal ></b> This command is used for calender.
 ##### For example:
 <pre>muhaimen@sysbox:~$ cal <br>
   November 2021      
@@ -13,19 +13,19 @@ Su Mo Tu We Th Fr Sa
 21 22 23 24 25 26 27  
 28 29 30 <br><br></pre>
 
-2: <b> < date > </b> this command is used for date.
+2: <b> < date > </b> This command is used for date.
 ##### For example:
 <pre>muhiamen@sysbox:~$ date <br>
 Sun  7 Nov 20:58:13 PKT 2021</pre>
   
-## 2-Lesson-working with directories:
+## 2-Lesson-Working with directories:
 
-1:<b> < mkdir > </b> through this command we can make directory.<br>
+1:<b> < mkdir > </b> Through this command we can make directory.<br>
 ##### For Example:
 <pre>muhiamen@sysbox:~$ mkdir Getting-start.<br></pre> 
 <i> Then again shell will came without any error so it mean that directory is made.</i> <br>
 
-2: <b> < ls > </b> this command is used for list mean to know about the items in the directoy.<b
+2: <b> < ls > </b> This command is used for list mean to know about the items in the directoy.<b
 ##### For Example:
 muhiamen@sysbox:~$ ls <br><pre>
 'Books for study'           My-data<br>
@@ -37,7 +37,7 @@ muhiamen@sysbox:~$ ls <br><pre>
  </pre> <br>
  
   
-3: <b> < cd > </b> through this command you can enter into the directory or folder.
+3: <b> < cd > </b> Through this command you can enter into the directory or folder.
 ##### For Example:
  <pre>  muhiamen@sysbox:~$ cd Getting-start <br>
    muhiamen@sysbox:~/Getting-start$</pre>
@@ -50,15 +50,15 @@ muhiamen@sysbox:~$ </pre>
 
 ## 3-Lesson-Working with Files:
 
-  1: <b> < pwd > </b> this command shows us the Present Working Directory.
+  1: <b> < pwd > </b> This command shows us the Present Working Directory.
   ##### For Example:
   <pre>muhiamen@sysbox:~/Getting-start$ pwd <br>
 /home/muhiamen/Getting-start</pre>
   
-  2: <b> < touch > </b> this command is used to make file.
+  2: <b> < touch > </b> This command is used to make file.
   ##### For Example:
   <pre>muhiamen@sysbox:~/Getting-start$ touch hello.txt <br></pre>
-  <i> again if the shell comes back with no error so it means that the files has been made.</i>
+  ###### Note: Again if the shell comes back with no error so it means that the files has been made.</i>
     
   3: <b> < cat > </b> this command concatenate files and print on the standard output.<br>
   ##### For example:
@@ -134,8 +134,35 @@ DESCRIPTION
   ##### For example:
   <pre> muhiamen@sysbox:~/Data/cli-files-0.0/lesson-01$ cat dummy-file.txt | grep "test"
         I am a test file. </pre>
+  
   2: <b> < mv > </b> This command is used to move (rename) files.
   ##### For example:
   <pre> muhiamen@sysbox:~/Data/cli-files-0.0/lesson-03$ mv iris.csv iris.backup.cv </pre>
-  If the their is no error so it means that the command has been worked.
+  ###### Note: If the their is no error so it means that the command has been worked.
  
+  3: <b> < mv > </b> This command is used to move (rename) files.
+  ##### For example:
+ <pre> muhiamen@sysbox:~/Data/cli-files-0.0/lesson-03$ mv iris.backup.cv iris-folder/ </pre>
+ ###### Note:If the command doesn't give any error so it means that it has worked correctly.
+  
+  4: <b> < rm > </b> This command is used to remove files or directories.
+  ##### For example:
+  <pre> muhiamen@sysbox:~/Data/cli-files-0.0/lesson-03$ rm -r iris-folder.1 </pre>
+  ###### Note: Again if their is no error so it means that the command has worked properly.
+  
+  5: <b> < cp > </b> This command is used to copy files and directories.
+  ##### For example:
+  <pre> muhiamen@sysbox:~/Data/cli-files-0.0/lesson-03$ cp -r backup backup-2 </pre>
+  
+  6: <b> < rmdir > </b> This command is aslo used to remove files or directories.
+  ##### For example:
+  <pre> muhiamen@sysbox:~/Data/cli-files-0.0/lesson-03$ rmdir remove </pre>
+  ###### Note: Again if their is no error so it means that the command has worked properly.
+  
+  
+  
+  
+  
+  
+  
+  
