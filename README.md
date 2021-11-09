@@ -626,7 +626,8 @@ Name:	yahoo.com
 Address: 2001:4998:44:3507::8001 </pre>
 </pre>
  
-9: <b
+## 8-Lesson: How to download playlist from youtube.
+1: First you have to install pip from python. So the the command line for 
   
   
   
