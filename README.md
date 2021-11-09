@@ -191,9 +191,10 @@ tmpfs                       1939480        0   1939480   0% /sys/fs/cgroup
 /dev/sda1                    523248     5356    517892   2% /boot/efi
 tmpfs                        387896       40    387856   1% /run/user/1000 </pre>
 
-2: <b> < df -h > </b>  This command is same to up one but it will show the command in the human senseble.
-##### For exmaple:
-<per> muhiamen@sysbox:~/Data/cli-files-0.0$ df -h
+
+ 2: <b> < df -h > </b>  This command is same to up one but it will show the command in the human senseble.
+ ##### For exmaple:
+  <per> muhiamen@sysbox:~/Data/cli-files-0.0$ df -h
 Filesystem                 Size  Used Avail Use% Mounted on
 udev                       1.8G     0  1.8G   0% /dev
 tmpfs                      379M  1.7M  378M   1% /run
@@ -221,6 +222,7 @@ tmpfs                      1.9G     0  1.9G   0% /sys/fs/cgroup
 /dev/sda2                  705M  329M  326M  51% /boot
 /dev/sda1                  511M  5.3M  506M   2% /boot/efi
 tmpfs                      379M   40K  379M   1% /run/user/1000 </pre>
+
   
 3: <b> < du > </b> This command is used to estimate file space usage.
 ##### For example:
