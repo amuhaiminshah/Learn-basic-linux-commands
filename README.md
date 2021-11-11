@@ -2,7 +2,7 @@
 Hello everyone, If you are interested in learning some basic Linux commands, so stick around. <br>
 ## 1-Lesson-Essential Elements:
 
-1: <b>< cal ></b> This command is used for calender.
+1: <b>< cal ></b> This command is used for calendar.
 ##### For example:
 <pre>muhaimen@sysbox:~$ cal <br>
   November 2021      
@@ -293,7 +293,7 @@ something </pre>
 ##### For example:
 <pre> muhiamen@sysbox:~/Data/cli-files-0.0$ echo "I am doning partice of command line"> hello.txt.
 muhiamen@sysbox:~/Data/cli-files-0.0$ cat hello.txt 
-I am doning partice of command line
+I am doing practice of command line
 muhiamen@sysbox:~/Data/cli-files-0.0$  </pre>
 
 9:<b> < top > This command is used to display Linux processes
@@ -705,6 +705,6 @@ E: Unable to lock directory /var/lib/apt/lists/ </pre>
 ##### Try to do practice because the practice makes the man perfect.
 
 
-#### Now it's time to acknowledge <a href-"https://www.udemy.com/course/linux-command-line-zero-to-expert/?couponCode=PAST-STUDENTS-21-J" >Recluze</a> for has astonishing afforts who made me able to share these commands with you all.
+#### Now it's time to acknowledge <a href-"https://www.udemy.com/course/linux-command-line-zero-to-expert/?couponCode=PAST-STUDENTS-21-J" >Recluze</a> for has astonishing efforts who made me able to share these commands with you all.
 
 #### If you have any problem in above commands first search it in google but still you have problem then you can mail me on <a href = "mailto: amuhaiminshah@gmail.com">Send Email</a>.
