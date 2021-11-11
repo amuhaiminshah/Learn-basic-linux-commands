@@ -626,10 +626,85 @@ Name:	yahoo.com
 Address: 2001:4998:44:3507::8001 </pre>
 </pre>
  
-## 8-Lesson: How to download playlist from youtube.
-1: First you have to install pip from python. So the the command line for 
-  
-  
-  
-  
--
+## 8-Lesson: 
+
+1: <b> < ctrl+r > </b> This command is recall the last command matching the characters you provide.
+
+2: <b> < histroy > </b> This command is used to show previously used commands or to
+get information about the commands executed by a user.
+##### For example:
+<pre> muhiamen@sysbox:~$ history
+    5  anaconda-navigator
+    6  sudo anaconda-navigator
+    7  conda
+    8  sudo su
+    9  cd /root/
+   10  sudo cd /root/
+   11  sudo su
+   12  cd
+   13  cd.
+   14  cd..
+   15  cd ..
+   16  ls/
+   17  ls/.
+   18  jupyter notebook
+   19  cd Downloads/
+   20  ls
+   21  sudo chown 777 Anaconda3-2021.05-Linux-x86_64.sh 
+   22  ls
+   23  sudo chown -R 777 Anaconda3-2021.05-Linux-x86_64.sh 
+   24  ls
+   25  bash Anaconda3-2021.05-Linux-x86_64.sh 
+   26  source ~/.bashrc
+   27  conda list
+   28  jupyter notebook
+   29  exit
+   30  cd
+   31  ls
+   32  cd . downloads
+   33  ls
+   34  cd Downloads
+   35  ls
+   36  cd..
+   37  cd ..
+   38  ls
+   39  help
+   40  help name
+   41  pwd info name
+   42  pwd info
+   43  pwd type name
+   44  help pwd
+   45  cd Downloads
+   46  ls
+   47  sudo apt 
+   48  firefox
+   49  exit
+   50  help
+</pre>
+
+3: <b> < apt-get > </b> apt -get is a powerful and free front-end package manager for
+Debian/Ubuntu systems. It is used to install new software
+packages, remove available software packages, upgrade
+existing software packages as well as upgrade the entire
+operating system. apt – stands for advanced packaging tool.
+##### For example:
+<pre> muhiamen@sysbox:~$ sudo apt-get update
+Reading package lists... Done
+E: Could not get lock /var/lib/apt/lists/lock. It is held by process 3499 (packagekitd)
+N: Be aware that removing the lock file is not a solution and may break your system.
+E: Unable to lock directory /var/lib/apt/lists/ </pre>
+
+4: <b> < passwd > </b> Thorugh this command you can change the passward.
+
+5: <b> < poweroff > </b> This command is used to poweroff the system.
+##### For example:
+<pre> muhiamen@sysbox:~$ poweroff
+      muhiamen@sysbox:~$ </pre>
+
+
+##### Try to do practice because the practice makes the man perfect.
+
+
+#### Now it's time to acknowledge <a href-"https://www.udemy.com/course/linux-command-line-zero-to-expert/?couponCode=PAST-STUDENTS-21-J" >Recluze</a> for has astonishing afforts who made me able to share these commands with you all.
+
+#### If you have any problem in above commands first search it in google but still you have problem then you can mail me on <a href = "mailto: amuhaiminshah@gmail.com">Send Email</a>.
