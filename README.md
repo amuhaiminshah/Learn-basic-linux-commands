@@ -705,6 +705,6 @@ E: Unable to lock directory /var/lib/apt/lists/ </pre>
 ##### Try to do practice because the practice makes the man perfect.
 
 
-#### Now it's time to acknowledge <a href-"https://www.udemy.com/course/linux-command-line-zero-to-expert/?couponCode=PAST-STUDENTS-21-J" >Recluze</a> for has astonishing efforts who made me able to share these commands with you all.
+#### Now it's time to acknowledge <a href="https://www.udemy.com/course/linux-command-line-zero-to-expert/?couponCode=PAST-STUDENTS-21-J" >Recluze</a> for has astonishing efforts who made me able to share these commands with you all.
 
 #### If you have any problem in above commands first search it in google but still you have problem then you can mail me on <a href = "mailto: amuhaiminshah@gmail.com">Send Email</a>.
