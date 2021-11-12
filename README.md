@@ -1,5 +1,5 @@
 # Learn-basic-linux-commands
-Hello everyone, If you are interested in learning some basic Linux commands, so stick around. <br>
+Hello everyone, If you are interested in learning some basic Linux commands, so stick around here. <br>
 ## 1-Lesson-Essential Elements:
 
 1: <b>< cal ></b> This command is used for calendar.
