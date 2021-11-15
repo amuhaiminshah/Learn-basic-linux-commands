@@ -1,11 +1,28 @@
 # Learn-basic-linux-commands
 Hello everyone, If you are interested in learning some basic Linux commands, so stick around here. <br>
 
-## summary:
-I toke online classes with Sir.Nouman. After that I thought that I have to tech or spread the Knowlage to the people.
+# summary:
+In this course we are going to cover the following commands line: <br>
+In <b> 1-lesson </b> : <br> 
+<pre> cal, date. </pre>
+In <b> 2-lesson </b> : <br>
+<pre> ls, cd, cd .. </pre>
+In <b> 3-lesson </b> : <br>
+<pre> pwd, touch, cat, wc. </pre>
+In <b> 4-lesson </b> : <br>
+<pre> info, whatis, man. </pre>
+In <b> 5-lesson </b> : <br>
+<pre> grep, mv, rm, cp, rmdir. </pre>
+In <b> 6-lesson </b> : <br>
+<pre> df, df -h, du, du -h, du -sh*, find, tail, echo, top. </pre>
+In <b> 7-lesson </b> : <br>
+<pre> ps u, ps aux, ps aux | grep *, kill, cat /proc/cpuinfo, cat /proc/meminfo, ifconfig, mslookup *. </pre>
+In <b> 8-lesson </b> : <br>
+<pre> ctrl+r, history, apt-get, passwd, poweroff. </pre>
 
+<br>
 
-
+# Lessons:
 ## 1-Lesson-Essential Elements:
 
 1: <b>< cal ></b> This command is used for calendar.
@@ -636,7 +653,7 @@ Address: 2001:4998:44:3507::8001 </pre>
 
 1: <b> < ctrl+r > </b> This command is recall the last command matching the characters you provide.
 
-2: <b> < histroy > </b> This command is used to show previously used commands or to
+2: <b> < history > </b> This command is used to show previously used commands or to
 get information about the commands executed by a user.
 ##### For example:
 <pre> muhiamen@sysbox:~$ history
