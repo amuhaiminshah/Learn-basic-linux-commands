@@ -2,8 +2,8 @@
 Hello everyone, If you are interested in learning some basic Linux commands, so stick around here. <br>
 
 # summary:
-In this course we are going to cover the following commands line: <br>
-In <b> 1-lesson </b> : <br> 
+Right now, we are going to cover the eight (8) lessons. The details of each lession are given below: <br>
+<b> 1-lesson </b> : <br> 
 <pre> cal, date. </pre>
 In <b> 2-lesson </b> : <br>
 <pre> ls, cd, cd .. </pre>
