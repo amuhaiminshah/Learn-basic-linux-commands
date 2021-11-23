@@ -18,7 +18,7 @@ In <b> 6-lesson </b> : <br>
 In <b> 7-lesson </b> : <br>
 <pre> ps u, ps aux, ps aux | grep *, kill, cat /proc/cpuinfo, cat /proc/meminfo, ifconfig, mslookup *. </pre>
 In <b> 8-lesson </b> : <br>
-<pre> ctrl+r, history, apt-get, passwd, poweroff. </pre>
+<pre> ctrl+r, history, apt-get, chown, chmod, passwd, poweroff. </pre>
 
 <br>
 
@@ -716,6 +716,10 @@ Reading package lists... Done
 E: Could not get lock /var/lib/apt/lists/lock. It is held by process 3499 (packagekitd)
 N: Be aware that removing the lock file is not a solution and may break your system.
 E: Unable to lock directory /var/lib/apt/lists/ </pre>
+
+4: <b> < chmod > </b> Through this command you can change the access permissions of file system objects.
+
+5:<b> < chown > </b> Through this command you can change the change the owner of file system files, directories.
 
 4: <b> < passwd > </b> Thorugh this command you can change the passward.
 
